@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\models",
+    "\\app\\views",
+    "\\app\\views\\microposts",
+    "\\app\\views\\users"
+  ],
+  "SelectedNode": "\\app\\views\\microposts\\show.html.erb",
+  "PreviewInSolutionExplorer": false
+}
